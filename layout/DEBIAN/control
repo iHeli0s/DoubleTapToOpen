@@ -1,9 +1,9 @@
-Package: com.yourcompany.doubletaptoopen
+Package: com.fr0zen.doubletaptoopen
 Name: DoubleTapToOpen
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: 
+Description: Double tap icons to open!!
 Maintainer: heli0s
 Author: heli0s
 Section: Tweaks

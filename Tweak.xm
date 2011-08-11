@@ -45,3 +45,14 @@ if(allowLaunch)
 
 
 %end
+%hook SBSearchController
+
+-(void)tableView:(id)view didSelectRowAtIndexPath:(id)indexPath {
+allowLaunch = YES;
+%orig;
+
+
+}
+
+
+%end
